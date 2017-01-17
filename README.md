@@ -39,7 +39,8 @@ I found it incredible easy to use and really powerful with a minimum learning cu
 in a week's time working mostly in the evenings and weekends.
 
 I read a book conveniently named [The Ruby on Rails Tutorial](https://www.railstutorial.org/) I went through all three 
-samples apps and then I started working on my own.
+samples apps and then I started working on my own. I also found invaluable and incredible helpful the [Rails Guides](http://guides.rubyonrails.org/),
+especially the ones about security and how to protect your application from all sorts of attacks.
 
 I absolutely loved the gem repository, the Active Record pattern, the generators, the migration tools, the templating engine and of course 
 convention over configuration and then another big weight, namely deployment, was magically lifted from my shoulders.
