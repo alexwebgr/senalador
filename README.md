@@ -17,17 +17,17 @@ and users can create bookmarks from within the Dashboard or by using on of the f
  
 ### The Name 
 It means bookmark or marker in Spanish.<br />
-I wanted to call it bookmarkr or something but I was for a word that kinda sticks instantly and it implies its usage.
-The logo is treasure chest and it stands for privacy so only the person with the key can access its precious contents.
+I wanted to call it bookmarkr or something but I was looking for a word that kinda sticks, it stands out and it implies its purpose.
+The logo is treasure chest and it stands for privacy and only the person with the key can access what's inside.
    
 ### Yet another bookmark application 
 Don't we already have like tons of them ?
-I had been using Pocket since it was known as Read It Later and despite the occasional php errors that would appear here and there it was a great application
-but like all things it had to evolve or dissolve and the new version was great I loved the new look and the name and as fas as know it even comes bundled with firefox,
+I had been using Pocket since it was known as **Read It Later** and despite the occasional php errors that would appear here and there it was a great application
+but like all things it had to evolve or dissolve and the new version was great, I loved the new look and the name and as fas as know it even comes bundled with firefox,
 that is an "outstanding achievement" for a developer and it is probably the best thing that can happen to you after free pizza.
 
-The thing that was a real deal-breaker was the sponsored bookmarks and even worse when a ribbon appeared on top of the bookmarks
-I have saved in my account reading 'Best of' or 'Pick of week'. What exactly do you mean 'Best of ?', I thought, best of what ? What are they doing with my bookmarks ?<br />
+The thing that was a real deal-breaker for me was the sponsored bookmarks and even worse when a ribbon appeared on top of the bookmarks
+I have saved in my account reading 'Best of' or 'Pick of week'. What exactly do you mean 'Best of?', I thought, best of what? What are they doing with my bookmarks?<br />
 And so it began.
 
 ### The Journey
