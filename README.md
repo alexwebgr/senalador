@@ -35,7 +35,7 @@ After having built several applications and websites in php and MySQL I wanted t
 doesn't get in your way and let you spend time building what you want instead of spending hours and hours writing boilerplate code or having to choose amongst 
 half-baked frameworks, something that is fast and easy to use. So I choose [Ruby on Rails](http://rubyonrails.org/) for the Dashboard.
 
-I found it incredible easy to use and really powerful with a minimum learning curve I was able to release the very first version of the dashboard
+I found it incredible easy to use and really powerful with a minimum learning curve I was able to release the very first version of the Dashboard
 in a week's time working mostly in the evenings and weekends.
 
 I read a book conveniently named [The Ruby on Rails Tutorial](https://www.railstutorial.org/) I went through all three 
